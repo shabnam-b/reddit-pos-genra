@@ -1,0 +1,4 @@
+Each line of the train/test/dev file corresponds to one token followed by a Tab character and then the POS tag.
+
+Sentences are separated by a new line.
+

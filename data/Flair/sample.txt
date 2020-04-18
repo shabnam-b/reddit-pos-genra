@@ -1,0 +1,20 @@
+How	WRB
+do	VBP
+people	NNS
+look	VBP
+at	IN
+and	CC
+experience	VBP
+art	NN
+?	.
+
+Which	WDT
+elements	NNS
+of	IN
+specific	JJ
+artworks	NNS
+do	VBP
+they	PRP
+focus	VB
+on	IN
+?	.

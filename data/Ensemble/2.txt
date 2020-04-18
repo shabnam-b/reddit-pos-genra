@@ -1,0 +1,10 @@
+SYM
+NNP
+NNP
+-RSB-
+NNP
+VBZ
+DT
+JJ
+NN
+IN
