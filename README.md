@@ -1,7 +1,7 @@
 
-This page contains details of experimental setup for the following paper:
+This page contains details of the experimental setup for the following paper:
 
-A Cross-Genre Ensemble Approach to Robust Reddit Part of Speech Tagging
+Behzad, Shabnam and Zeldes, Amir (2020) "[A Cross-Genre Ensemble Approach to Robust Reddit Part of Speech Tagging]((http://arxiv.org/abs/2004.14312))". In: Proceedings of the 12th Web as Corpus Workshop (WAC-XII).
 
 ## Flair
 
@@ -14,3 +14,18 @@ We trained Flair on different genres and used the prediction as features for our
 ## Data Sample
 
 [data](data/) contains a very small sample data for both scripts, just to make the formatting clear.
+
+## References
+
+If you use these models in your research, please kindly cite the following paper: 
+
+```
+@InProceedings{BehzadZeldes2020,
+  author    = {Shabnam Behzad and Amir Zeldes},
+  title     = {A Cross-Genre Ensemble Approach to Robust {R}eddit Part of Speech Tagging},
+  booktitle   = {Proceedings of the 12th Web as Corpus Workshop (WAC-XII)},
+  year      = {2020},
+}
+```
+If you use the Flair package, please cite as described [here](https://github.com/flairNLP/flair).
+
