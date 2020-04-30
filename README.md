@@ -1,7 +1,8 @@
 
 This page contains details of the experimental setup for the following paper:
 
-Behzad, Shabnam and Zeldes, Amir (2020) "[A Cross-Genre Ensemble Approach to Robust Reddit Part of Speech Tagging](http://arxiv.org/abs/2004.14312)". In: Proceedings of the 12th Web as Corpus Workshop (WAC-XII).
+Behzad, Shabnam and Zeldes, Amir (2020) "[A Cross-Genre Ensemble Approach to Robust Reddit Part of Speech Tagging](http://arxiv.org/abs/2004.14312)".
+In: Proceedings of the 12th Web as Corpus Workshop (WAC-XII).
 
 ## Flair
 
